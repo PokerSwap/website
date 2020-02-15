@@ -9,7 +9,7 @@ const Home = () => {
     return <>
         <Header bgColor="bg-dark" />
         <section className="contact" id="contact">
-            <div className="container">
+            <div className="container text-left">
             <h1>Privacy Policy Statement</h1>
 <p>&nbsp;</p>
 <p>This policy explains how Swap Profit may collect, use and aggregate personal information about you via the Swap Profit app. &nbsp;Swap Profit respects your personal privacy and is committed to protecting it.</p>
