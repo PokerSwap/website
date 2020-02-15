@@ -10,5 +10,6 @@ ports:
 tasks:
   - init: echo 'init script' # runs during prebuild
     command: >
+      npm i now -g;
       npm run install;
       npm run start;
