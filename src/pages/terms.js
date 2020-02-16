@@ -4,6 +4,7 @@ import "../styles/main.css"
 import demoScreenURL from "../images/demo-screen-1.jpg";
 import googlePlayBadge from "../images/google-play-badge.svg";
 import appStoreBadge from "../images/app-store-badge.svg";
+import { Link } from "gatsby"
 
 const Home = () => {
     return <>
@@ -235,17 +236,20 @@ const Home = () => {
         </section>
 
         <footer>
-            <div className="container">
-            <p>&copy; Your Website 2019. All Rights Reserved.</p>
+             <div className="container">
+            <p>&copy; Swap Profit, LLC   2020. All Rights Reserved.</p>
             <ul className="list-inline">
                 <li className="list-inline-item">
-                <a href="#">Privacy</a>
+                <Link to="/">Home</Link> 
+                <li className="list-inline-item">
+                </li>
+                <Link to="/privacy">Privacy Policy</Link>
                 </li>
                 <li className="list-inline-item">
-                <a href="#">Terms</a>
+                <Link to="/terms">Terms and Conditions</Link>
                 </li>
                 <li className="list-inline-item">
-                <a href="#">FAQ</a>
+                <Link to="/faqs">FAQ's</Link>
                 </li>
             </ul>
             </div>
