@@ -13,9 +13,7 @@ const Home = () => {
             <div className="row h-100">
                 <div className="col-lg-7 my-auto">
                 <div className="header-content mx-auto">
-                    <h1 className="mb-5">Swap Profit is the new exchange model in competitive gaming and events of all levels.  Download the app to get started!</h1>
-                    <a className="badge-link" href="#"><img src={googlePlayBadge} alt="" /></a>
-                    <a className="badge-link" href="#"><img src={appStoreBadge} alt="" /></a>
+                    <h1 className="mb-5">Welcome to Swap Profit! <br></br>Your new exchange model for competitive gaming amongst peers where you can Swap potential Profits and earn rewards in your events.  Download the app to get started!</h1>
                 </div>
                 </div>
                 <div className="col-lg-5 my-auto">
