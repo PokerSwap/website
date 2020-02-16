@@ -87,7 +87,7 @@ const Home = () => {
                         <div className="feature-item">
                         <i className="icon-screen-smartphone text-primary"></i>
                         <div className="screen">
-                        <img src={fishingpic} className="img-fluid" alt="" />
+                        <img src={fishingpic} className="img-fluid" style={{ borderRadius: "7%"}} alt="" />
                         </div>
                         <p className="text-muted">Fishing Tournaments</p>
                         </div>
@@ -96,7 +96,7 @@ const Home = () => {
                         <div className="feature-item">
                         <i className="icon-camera text-primary"></i>
                         <div className="screen">
-                        <img src={golfpic} className="img-fluid" alt="" />
+                        <img src={golfpic} className="img-fluid" style={{ borderRadius: "7%"}} alt="" />
                         </div>
                         <p className="text-muted">Golf Tournaments</p>
                         </div>
@@ -107,7 +107,7 @@ const Home = () => {
                         <div className="feature-item">
                         <i className="icon-present text-primary"></i>
                         <div className="screen">
-                        <img src={pokerpic} className="img-fluid" alt="" />
+                        <img src={pokerpic} className="img-fluid" style={{ borderRadius: "7%"}} alt="" />
                         </div>
                         <p className="text-muted">Poker Tournaments</p>
                         </div>
@@ -116,7 +116,7 @@ const Home = () => {
                         <div className="feature-item">
                         <i className="icon-lock-open text-primary"></i>
                         <div className="screen">
-                        <img src={crossfitpic} className="img-fluid" alt="" />
+                        <img src={crossfitpic} className="img-fluid" style={{ borderRadius: "7%"}} alt="" />
                         </div>
                         <p className="text-muted">Fitness Competitions</p>
                         </div>
