@@ -81,6 +81,9 @@ const Home = () => {
                 <li className="list-inline-item">
                 <Link to="/faqs">FAQ's</Link>
                 </li>
+                <li className="list-inline-item">
+                <a href="mailto:info@swapprofitonline.com">Contact</a>
+                </li>
             </ul>
             </div>
         </footer>;
