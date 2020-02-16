@@ -72,7 +72,7 @@ const Home = () => {
 <p><strong>The event that I was in has concluded. &nbsp;When will I receive the official results from the event?</strong></p>
 <p>As soon as we receive the official results from any event, we will send out Swap Results for that event.</p>
 <p>&nbsp;</p>
-<p><strong>I won an additional prize for separate from cash payouts in my event. &nbsp;Does this additional prize count towards Swap earnings?</strong></p>
+<p><strong>I won an additional prize separate from cash payouts in my event. &nbsp;Does this additional prize count towards Swap earnings?</strong></p>
 <p>No, additional prize(s) that are won in any event will NOT count as earnings towards Swaps. &nbsp; Only your event cash payout earnings will count towards Swaps.</p>
 <p>&nbsp;</p>
 <p><strong>I won a trophy in my event. &nbsp;Do I have to share my trophy with my Swappers?</strong></p>
@@ -97,6 +97,9 @@ const Home = () => {
                 </li>
                 <li className="list-inline-item">
                 <Link to="/faqs">FAQ's</Link>
+                </li>
+                <li className="list-inline-item">
+                <a href="mailto:info@swapprofitonline.com">Contact</a>
                 </li>
             </ul>
             </div>
