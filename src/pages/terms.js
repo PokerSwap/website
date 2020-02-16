@@ -11,6 +11,7 @@ const Home = () => {
         <Header bgColor="bg-dark" />
         <section className="contact" id="contact">
             <div className="container text-left">
+            <h1><strong>Terms and Conditions</strong></h1>
             <p>February 15, 2020</p>
 <p>&nbsp;</p>
 <p>Welcome to Swap Profit!</p>
@@ -19,8 +20,6 @@ const Home = () => {
 <p>PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY CONTAIN AN AGREEMENT TO ARBITRATE AND OTHER IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS. THE AGREEMENT TO ARBITRATE REQUIRES (WITH LIMITED EXCEPTION) THAT YOU SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION, AND FURTHER (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST SWAP PROFIT ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS.</p>
 <p>&nbsp;</p>
 <p>In addition, when using certain services, you will be subject to any additional terms applicable to such services that may be posted on the Service from time to time, including, without limitation, the Privacy Policy located at https://www.swapprofitonline.com/privacy/ . All such terms are hereby incorporated by reference into these Terms of Service.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Access and Use of the Service</p>
 <p>Services Description: The Service is designed to 1. Offer our users to ability to earn rewards on entries made into competitive events such as fishing, golf, fitness, poker tournaments and more. &nbsp;2. &nbsp; Offer listings of these events to our users and discounts when applicable. &nbsp;3. &nbsp; Offer our users the ability to swap potential profits in these events with other competitors.&nbsp;</p>
@@ -48,8 +47,7 @@ const Home = () => {
 <p>Violation of Terms: If we determine in our sole discretion that you have violated the Terms, we may in our sole discretion and as permitted by law, terminate your account and any pending, current, or future Swap Profit Rewards balance you may have immediately expires. We will notify you of such termination at the email address associated with your account, and such termination shall be effective immediately.</p>
 <p>&nbsp;</p>
 <p>Swap Profit Payout Model</p>
-<p>General: Swap Profit computes Payouts in the following model
-  <br/>&nbsp;
+<p>General: Swap Profit computes Payouts in the following model:
 </p>
 <p>Earnings (any amount earned by the User in the event in which the User has registered for)</p>
 <p>Minus</p>
@@ -75,37 +73,20 @@ const Home = () => {
 <p>User Conduct: You are solely responsible for all code, video, images, information, data, text, software, music, sound, photographs, graphics, messages or other materials (“content”) that you upload, post, publish or display (hereinafter, “upload”) or email or otherwise use via the Service. The following are examples of the kind of content and/or use that is illegal or prohibited by Swap Profit. Swap Profit reserves the right to investigate and take appropriate legal action against anyone who, in Swap Profit’s sole discretion, violates this provision, including without limitation, removing the offending content from the Service, suspending or terminating the account of such violators and reporting you to the law enforcement authorities.&nbsp;</p>
 <p>&nbsp;</p>
 <p>You agree to not use the Service to:</p>
-<p>&nbsp;</p>
-<p>email or otherwise upload any content that (i) infringes any intellectual property or other proprietary rights of any party; (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships; (iii) contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; (iv) poses or creates a privacy or security risk to any person; (v) constitutes unsolicited or unauthorized advertising, promotional materials, commercial activities and/or sales, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” “contests,” “sweepstakes,” or any other form of solicitation; (vi) is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, libelous, invasive of another’s privacy, hateful racially, ethnically or otherwise objectionable; or (vii) in the sole judgment of Swap Profit, is objectionable or which restricts or inhibits any other person from using or enjoying the Service, or which may expose Swap Profit or its users to any harm or liability of any type;</p>
-<p>&nbsp;</p>
 <p>interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service; or</p>
-<p>&nbsp;</p>
 <p>violate any applicable local, state, national or international law, or any regulations having the force of law;</p>
-<p>&nbsp;</p>
 <p>impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;</p>
-<p>&nbsp;</p>
 <p>solicit personal information from anyone under the age of 18;</p>
-<p>&nbsp;</p>
 <p>harvest or collect email addresses or other contact information of other users from the Service by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications;</p>
-<p>&nbsp;</p>
 <p>advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorized;</p>
-<p>&nbsp;</p>
 <p>further or promote any criminal activity or enterprise or provide instructional information about illegal activities; or</p>
-<p>&nbsp;</p>
 <p>obtain or attempt to access or otherwise obtain any materials or information through any means not intentionally made available or provided for through the Service.</p>
-<p>&nbsp;</p>
 <p>fail to pay on Swaps you have made; unless you have a valid reason as set out in a Swap Profit policy, for example, you cannot contact the seller (see our <strong>Swap Rating Policy</strong>);</p>
-<p>&nbsp;</p>
 <p>manipulate the value of a Swap or interfere with any other user's listings;</p>
-<p>&nbsp;</p>
 <p>take any action that may undermine our ratings systems;</p>
-<p>&nbsp;</p>
 <p>use any robot, spider, scraper, data mining tools, data gathering and extraction tools, or other automated means to access our Services for any purpose, except with the prior express permission of Swap Profit;</p>
-<p>&nbsp;</p>
 <p>interfere with the working of our Services, or impose an unreasonable or disproportionately large load on our infrastructure;</p>
-<p>&nbsp;</p>
 <p>export or re-export any Swap Profit application or tool, except in compliance with the export control laws of any relevant jurisdictions and in accordance with posted rules and restrictions;</p>
-<p>&nbsp;</p>
 <p>harvest or otherwise collect information about users without their consent; or circumvent any technical measures used to provide the Services.</p>
 <p>&nbsp;</p>
 <p>If we believe you are abusing Swap Profit and/or our Services in any way, we may, in our sole discretion and without limiting other remedies, limit, suspend, or terminate your user account(s) and access to our Services, delay or remove hosted content, remove any special status associated with your account(s), remove, not display, and/or demote listings, reduce or eliminate any discounts, and take technical and/or legal steps to prevent you from using our Services.</p>
@@ -170,7 +151,6 @@ const Home = () => {
 <p>&nbsp;</p>
 <p>Disclaimer of Warranties</p>
 <p>YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. SWAP PROFIT EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.</p>
-<p>&nbsp;</p>
 <p>SWAP PROFIT MAKES NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, OR (IV) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS.</p>
 <p>&nbsp;</p>
 <p>Limitation of Liability</p>
@@ -183,34 +163,26 @@ const Home = () => {
 <p>Dispute Resolution by Binding Arbitration: PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS.</p>
 <p>&nbsp;</p>
 <p>Agreement to Arbitrate</p>
-<p>&nbsp;</p>
 <p>This Dispute Resolution by Binding Arbitration section is referred to in this Terms of Service as the “Arbitration Agreement.” You agree that any and all disputes or claims that have arisen or may arise between you and Swap Profit, whether arising out of or relating to this Terms of Service (including any alleged breach thereof), the Services, any advertising, any aspect of the relationship or transactions between us, shall be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement, except that you may assert individual claims in small claims court, if your claims qualify. Further, this Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, and such agencies can, if the law allows, seek relief against us on your behalf. You agree that, by entering into this Terms of Service, you and Swap Profit are each waiving the right to a trial by jury or to participate in a class action. Your rights will be determined by a neutral arbitrator, not a judge or jury. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.</p>
-<p>Prohibition of Class and Representative Actions and Non-Individualized Relief</p>
 <p>&nbsp;</p>
+<p>Prohibition of Class and Representative Actions and Non-Individualized Relief</p>
 <p>YOU AND SWAP PROFIT AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING. UNLESS BOTH YOU AND SWAP PROFIT AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON’S OR PARTY’S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY’S INDIVIDUAL CLAIM(S).</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Pre-Arbitration Dispute Resolution</p>
-<p>&nbsp;</p>
 <p>Swap Profit is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support support@swapprofitonline.com. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Swap Profit should be sent to Swap Profit, LLC, 700 Executive Drive #29, West Palm Beach, FL &nbsp; 33401 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Swap Profit and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Swap Profit may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Swap Profit or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Swap Profit is entitled.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Arbitration Procedures</p>
-<p>&nbsp;</p>
 <p>Arbitration will be conducted by a neutral arbitrator in accordance with the American Arbitration Association’s (“AAA”) rules and procedures, including the AAA’s Supplementary Procedures for Consumer-Related Disputes (collectively, the “AAA Rules”), as modified by this Arbitration Agreement. For information on the AAA, please visit its website, http://www.adr.org. Information about the AAA Rules and fees for consumer disputes can be found at the AAA’s consumer arbitration page, http://www.adr.org/consumer_arbitration. If there is any inconsistency between any term of the AAA Rules and any term of this Arbitration Agreement, the applicable terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration. The arbitrator must also follow the provisions of these Terms of Service as a court would. All issues are for the arbitrator to decide, including, but not limited to, issues relating to the scope, enforceability, and arbitrability of this Arbitration Agreement. Although arbitration proceedings are usually simpler and more streamlined than trials and other judicial proceedings, the arbitrator can award the same damages and relief on an individual basis that a court can award to an individual under the Terms of Service and applicable law. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons.</p>
 <p>&nbsp;</p>
 <p>Unless Swap Profit and you agree otherwise, any arbitration hearings will take place in a reasonably convenient location for both parties with due consideration of their ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination shall be made by AAA. If your claim is for $10,000 or less, Swap Profit agrees that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.</p>
 <p>&nbsp;</p>
 <p>Costs of Arbitration</p>
-<p>&nbsp;</p>
 <p>Payment of all filing, administration, and arbitrator fees (collectively, the “Arbitration Fees”) will be governed by the AAA Rules, unless otherwise provided in this Arbitration Agreement. If the value of the relief sought is $75,000 or less, at your request, Swap Profit will pay all Arbitration Fees. If the value of relief sought is more than $75,000 and you are able to demonstrate to the arbitrator that you are economically unable to pay your portion of the Arbitration Fees or if the arbitrator otherwise determines for any reason that you should not be required to pay your portion of the Arbitration Fees, Swap Profit will pay your portion of such fees. In addition, if you demonstrate to the arbitrator that the costs of arbitration will be prohibitive as compared to the costs of litigation, Swap Profit will pay as much of the Arbitration Fees as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive. Any payment of attorneys’ fees will be governed by the AAA Rules.</p>
 <p>&nbsp;</p>
 <p>Confidentiality</p>
-<p>&nbsp;</p>
 <p>All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.</p>
 <p>&nbsp;</p>
 <p>Severability</p>
-<p>&nbsp;</p>
 <p>If a court or the arbitrator decides that any term or provision of this Arbitration Agreement (other than the subsection (b) titled “Prohibition of Class and Representative Actions and Non-Individualized Relief” above) is invalid or unenforceable, the parties agree to replace such term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Arbitration Agreement shall be enforceable as so modified. If a court or the arbitrator decides that any of the provisions of subsection (b) above titled “Prohibition of Class and Representative Actions and Non-Individualized Relief” are invalid or unenforceable, then the entirety of this Arbitration Agreement shall be null and void. The remainder of the Terms of Service will continue to apply.</p>
 <p>&nbsp;</p>
 <p>Future Changes to Arbitration Agreement</p>
