@@ -14,8 +14,7 @@ const Home = () => {
                 <div className="col-lg-7 my-auto">
                 <div className="header-content mx-auto">
                     <h1 className="mb-5">Swap Profit is the new exchange model in competitive gaming and events of all levels.  Download the app to get started!</h1>
-                    <a href="#download" className="btn btn-outline btn-xl js-scroll-trigger">Apple Store</a>
-                    <a href="#download" className="btn btn-outline btn-xl js-scroll-trigger">Google Play</a>
+                    <a className="badge-link" href="#"><img src={googlePlayBadge} alt="" /></
                 </div>
                 </div>
                 <div className="col-lg-5 my-auto">
