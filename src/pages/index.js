@@ -143,17 +143,17 @@ const Home = () => {
             <h2>Join us on Social Media!</h2>
             <ul className="list-inline list-social">
                 <li className="list-inline-item social-twitter">
-                <a href="#">
+                <a href="https://twitter.com/SwapProfit">
                     <img src={twitterURL} className="icon" />
                 </a>
                 </li>
                 <li className="list-inline-item social-facebook">
-                <a href="#">
+                <a href="https://www.facebook.com/Swap-Profit-111492173769539/?modal=admin_todo_tour">
                     <img src={facebookURL} className="icon" />
                 </a>
                 </li>
                 <li className="list-inline-item social-instagram">
-                <a href="#">
+                <a href="https://www.instagram.com/swapprofit/">
                     <img src={instagramURL} className="icon" />
                 </a>
                 </li>
