@@ -12,7 +12,7 @@ import crossfitpic from "../images/Crossfit picture.jpg";
 import fishingpic from "../images/Fishing picture.jpg";
 import golfpic from "../images/Golf picture.jpg";
 import pokerpic from "../images/Poker picture.jpg"
-import stripeBadge from "../images/Stripe Logo.png"
+import stripeBadge from "../images/Stripe Logo Transparent.png"
 
 const Home = () => {
     return <>
