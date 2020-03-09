@@ -53,7 +53,7 @@ const Home = () => {
                         <h2 className="section-heading">Download the app to get started!</h2>
                         <div className="badges">
                             <a className="badge-link" href="#"><img src={googlePlayBadge} alt="" /></a>
-                            <a className="badge-link ml-sm-3" href="#"><img src={appStoreBadge} alt="" /></a>
+                            <a className="badge-link" href="#"><img src={appStoreBadge} alt="" /></a>
                             <a className="badge-link" href="#"><img src={stripepic} alt="" /></a>
                         </div>
                     </div>
