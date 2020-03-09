@@ -12,6 +12,7 @@ import crossfitpic from "../images/Crossfit picture.jpg";
 import fishingpic from "../images/Fishing picture.jpg";
 import golfpic from "../images/Golf picture.jpg";
 import pokerpic from "../images/Poker picture.jpg"
+import stripepic from "../images/Stripe Logo.jpg"
 
 const Home = () => {
     return <>
@@ -53,6 +54,7 @@ const Home = () => {
                         <div className="badges">
                             <a className="badge-link" href="#"><img src={googlePlayBadge} alt="" /></a>
                             <a className="badge-link ml-sm-3" href="#"><img src={appStoreBadge} alt="" /></a>
+                            <a className="badge-link" href="#"><img src={stripepic} alt="" /></a>
                         </div>
                     </div>
                 </div>
