@@ -176,9 +176,9 @@ const Home = () => {
                 <li className="list-inline-item">
                 <Link to="/terms">Terms and Conditions</Link>
                 </li>
-                <li className="list-inline-item">
+                {/*<li className="list-inline-item">
                 <Link to="/faqs">FAQ's</Link>
-                </li>
+                </li>*/}
                 <li className="list-inline-item">
                 <a href="mailto:info@swapprofitonline.com">Contact</a>
                 </li>
